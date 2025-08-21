@@ -70,9 +70,9 @@ Aplicación móvil híbrida en Flutter para la gestión de pedidos online, con b
 
 ## Capturas de pantalla
 
-| Catálogo de Productos | Carrito de Compras |
-|----------------------|--------------------|
-| ![catalogo](screenshots/catalogo.png) | ![carrito](screenshots/carrito.png) |
+| Catálogo de Productos | Carrito de Compras | Agregar Producto |
+|----------------------|--------------------|------------------|
+| ![catalogo](screenshots/panel%20de%20productos.png) | ![carrito](screenshots/panel%20de%20carrito.png) | ![agregar](screenshots/panel%20de%20agregar%20producto.png) |
 
 > Puedes agregar más imágenes en la carpeta `screenshots/` para mostrar otras funciones de la app.
 
