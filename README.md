@@ -68,6 +68,14 @@ Aplicación móvil híbrida en Flutter para la gestión de pedidos online, con b
 }
 ```
 
+## Capturas de pantalla
+
+| Catálogo de Productos | Carrito de Compras |
+|----------------------|--------------------|
+| ![catalogo](screenshots/catalogo.png) | ![carrito](screenshots/carrito.png) |
+
+> Puedes agregar más imágenes en la carpeta `screenshots/` para mostrar otras funciones de la app.
+
 ## Notas
 - El botón de recarga actualiza el stock y la lista de productos.
 - El stock se descuenta automáticamente al realizar un pedido.
@@ -75,4 +83,4 @@ Aplicación móvil híbrida en Flutter para la gestión de pedidos online, con b
 - Para dudas o mejoras, abre un issue en el repositorio.
 
 ---
-Desarrollado por [Tu Nombre].
+**Autor:** Aron
